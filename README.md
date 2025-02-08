@@ -20,4 +20,4 @@ Step 6:Training our all three models by using pipeline
 
 Step 7: Performance Evaluation (sklearn.metrics , r2_score)
 
-And lastly i create a pickle file("Car Price Prediction.pkl whcih you can use to predict the car price to test the data 
+And lastly i create a pickle file("Car Price Prediction.pkl") whcih you can use to predict the car price to test the data 
